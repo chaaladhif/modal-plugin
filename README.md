@@ -11,7 +11,6 @@ Copier le code
 
 import React, { useState } from 'react';
 import Modal from 'chaalaa-modal';
-import 'chaalaa-modal/dist/style.css'; // Assurez-vous d'importer les styles
 
 const App = () => {
   const [isOpen, setIsOpen] = useState(false);

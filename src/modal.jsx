@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import './style.css';
 
 const Modal = ({ isOpen, onClose, text }) => {
+    // Gestion de la fermeture du modal avec la touche Escape
   useEffect(() => {
     const handleEscape = (event) => {
       if (event.key === "Escape") {
@@ -13,7 +14,7 @@ const Modal = ({ isOpen, onClose, text }) => {
       document.removeEventListener("keydown", handleEscape);
     };
   }, [onClose]);
-
+// Si isOpen est false, le modal ne s'affiche pas
   if (!isOpen) {
     return null;
   }
