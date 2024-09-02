@@ -14,13 +14,15 @@ Node.js: ^v14.0.0 or higher
 ## Dependencies
 
 React: ^16.8.0 or higher
+
 react-dom: ^16.8.0 or higher
 
 ## Installation
 
 Via npm:
 
-```npm install chaalaa-modal
+``` 
+npm install chaalaa-modal
 
 Or via yarn:
 
