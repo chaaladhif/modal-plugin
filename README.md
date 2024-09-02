@@ -1,8 +1,7 @@
-# Modal Component for React and JS Applications
-----------------------------------------------------
+Modal Component for React and JS Applications
 [npm version]
 A customizable modal component for React and JavaScript applications.
-## Installation
+Installation
 Via npm:
 bash
 npm install chaalaa-modal
@@ -11,7 +10,7 @@ Or via yarn:
 bash
 yarn add chaalaa-modal
 
-## Usage
+Usage
 Here's a basic example of how to use chaalaa-modal in your React project:
 jsx
 import React, { useState } from 'react';
@@ -37,7 +36,7 @@ const App = () => {
 
 export default App;
 
-## Specific Example
+Specific Example
 Here's how chaalaa-modal was used in an employee creation component:
 jsx
 import { useState } from "react";
@@ -76,12 +75,12 @@ function CreateEmployee() {
 
 export default CreateEmployee;
 
-### Node Version
+Node Version
 Ensure you are using Node.js version 14 or higher.
-## Dependencies
+Dependencies
 React: ^16.8.0 or higher
 react-dom: ^16.8.0 or higher
-## Contributing
+Contributing
 Thank you for using chaalaa-modal! If you have any questions or suggestions, please don't hesitate to open an issue or contact me.
-## Author
+Author
 Chaala Dhifallah
