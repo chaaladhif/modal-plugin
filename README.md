@@ -7,27 +7,24 @@
 A customizable modal component for React and JavaScript applications.
 
 ## Prerequisites:
----------------------
 
 Before you begin, ensure you have met the following requirements:
 Node.js: ^v14.0.0 or higher
 
 ## Dependencies
-----------------
+
 React: ^16.8.0 or higher
 react-dom: ^16.8.0 or higher
 
 ## Installation
----------------------
 
 Via npm:
 
-bash
 ```npm install chaalaa-modal
 
 Or via yarn:
-bash
-```yarn add chaalaa-modal
+
+yarn add chaalaa-modal
 ```
 ## Usage
 
