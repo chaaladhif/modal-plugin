@@ -19,9 +19,9 @@ react-dom: ^16.8.0 or higher
 
 ## Installation
 
+``` 
 Via npm:
 
-``` 
 npm install chaalaa-modal
 
 Or via yarn:
